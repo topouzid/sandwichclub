@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!--text size for detail activity-->
+    <dimen name="text_size_main">18sp</dimen>
+    <!--internal padding for scrollview on detail activity-->
+    <dimen name="scroll_padding_main">8dp</dimen>
+    <!--top margin on each heading, to separate between info-->
+    <dimen name="title_margin_top">8dp</dimen>
+    <dimen name="text_left_margin">8dp</dimen>
+</resources>
